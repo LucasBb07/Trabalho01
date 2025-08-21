@@ -188,7 +188,7 @@ imagem: {
     fontSize: 20,
   },
   Subtitulo: {
-    fontSize: 22,
+    fontSize: 23,
     fontWeight: '600',
     color: '#000000ff', // laranja vibrante
     textAlign: 'center',
